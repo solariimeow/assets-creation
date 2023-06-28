@@ -27,4 +27,4 @@ This repository contains scripts that enable the creation of assets in Salesforc
 </ul>
 
 ## Contributing
-Contributions to this repository are welcome! If you have any improvements, bug fixes, or additional features to suggest, please submit a pull request. Make sure to follow the existing coding style and guidelines.
+If you have any improvements, bug fixes, or additional features to suggest, please submit a pull request.
